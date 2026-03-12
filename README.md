@@ -1,4 +1,3 @@
-# Heart-Disease-Prediction
 # Heart Disease Prediction Models
 
 This project explores how machine learning can be used to **predict the likelihood of heart disease** using demographic and clinical data. I built, tested, and compared multiple models on a cleaned dataset compiled from five well-known heart disease datasets.  
